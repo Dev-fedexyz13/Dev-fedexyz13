@@ -19,6 +19,27 @@ Aquí comparto mis proyectos, ideas y avances con mucho cariño ❀
 
 ---
 
+### 📢 Enlaces Oficiales
+
+<div align="center">
+  <a href="https://chat.whatsapp.com/JeYxn26gEsL7XcNAGQuukW?mode=ems_copy_t">
+    <img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png" height="40" alt="Grupo Oficial"/>
+    <br><strong>GRUPO OFICIAL</strong>
+  </a>
+  <br><br>
+  <a href="https://whatsapp.com/channel/0029VbB0TV196H4QK21HLe29">
+    <img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png" height="40" alt="Canal Oficial 1"/>
+    <br><strong>CANAL OFICIAL</strong>
+  </a>
+  <br><br>
+  <a href="https://whatsapp.com/channel/0029VbApe6jG8l5Nv43dsC2N">
+    <img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png" height="40" alt="Canal Oficial 2"/>
+    <br><strong>CANAL OFICIAL 2</strong>
+  </a>
+</div>
+
+---
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" />
