@@ -1,5 +1,5 @@
 <!-- Encabezado animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=welcome%20a%20mi%20perfil&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <h2 align="center">¡Hola! 👋 Bienvenido(a) a este rincón digital</h2>
 
