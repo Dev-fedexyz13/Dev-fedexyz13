@@ -24,12 +24,6 @@ Soy<strong> Mini desarrollador </strong> aun sigo aprendiendo</strong>
   </a>
 </div>
 
-<p align="center">
-  <a href="https://atom.bio/thekingdestroy507"><img height="40" src="https://cdn.icon-icons.com/icons2/566/PNG/128/link_icon-icons.com_54349.png" alt="Bio"></a>
-  <a href="mailto:thekingdestroy507@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="Email"></a>
-  <a href="https://wa.me/qr/6ZXZS2SNNKAHI1"><img height="40" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png" alt="WhatsApp"></a>
-</p>
-
 ---
 
 <div align="center">
