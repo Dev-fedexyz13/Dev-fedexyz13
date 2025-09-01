@@ -4,7 +4,7 @@
 <h2 align="center">¡Hola! 👋 Bienvenido(a) a este rincón digital</h2>
 
 <p align="center">
-Soy<strong> Mini desarrollador</strong> aun sigo aprendiendo<strong>WhatsApp</strong> 
+Soy<strong> Mini desarrollador </strong> aun sigo aprendiendo</strong> 
 </p>
 
 ---
