@@ -16,13 +16,6 @@ Soy<strong> Mini desarrollador </strong> aun sigo aprendiendo</strong>
 - 🤝 Únete a una comunidad que crece con cada aporte.
 - ❤️ Sé parte de esta familia digital que te espera con los brazos abiertos.
 
----
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=45E7F7&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACTA+CONMIGO+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
 
 ---
 
