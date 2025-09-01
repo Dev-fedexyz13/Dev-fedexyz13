@@ -19,6 +19,14 @@ Aquí comparto mis proyectos, ideas y avances con mucho cariño ❀
 
 ---
 
+<div align="center">
+  <a href="https://wa.me/5491156178758">
+    <img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png" height="40" alt="WhatsApp Contact"/>
+    <br><strong>¡Haz clic aquí para hablar conmigo por WhatsApp!</strong>
+  </a>
+</div>
+
+---
 ### 📢 Enlaces Oficiales
 
 <div align="center">
