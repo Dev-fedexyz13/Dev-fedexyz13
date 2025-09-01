@@ -21,7 +21,7 @@ Soy<strong> Mini desarrollador </strong> aun sigo aprendiendo</strong>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=%E2%9C%A8+OBITO+STATS+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=%E2%9C%A8+ESTADIS+TICAS+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
