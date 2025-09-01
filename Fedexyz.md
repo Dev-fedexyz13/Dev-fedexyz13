@@ -4,9 +4,7 @@
 <h2 align="center">¡Hola! 👋 Bienvenido(a) a este rincón digital</h2>
 
 <p align="center">
-Soy <strong>Desarrollador Principiante</strong> enfocado en bots para <strong>WhatsApp</strong> 🤖.
-Aquí comparto mis proyectos, ideas y aprendizajes.
-Si te gusta lo que ves, una ⭐ ¡sería de gran ayuda!
+Soy<strong>Mini desarrollador</strong> aun sigo aprendiendo<strong>WhatsApp</strong> 
 </p>
 
 ---
