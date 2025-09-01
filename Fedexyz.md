@@ -1,7 +1,7 @@
 <!-- Encabezado animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello,%20welcome%20to%20my%20profile&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-<h2 align="center">¡Hola! 👋 Bienvenido(a) a este rincón digital</h2>
+<h2 align="center">¡Hola! 👋 Bienvenido/as a mi repositorio</h2>
 
 <p align="center">
 Soy<strong> Mini desarrollador </strong> aun sigo aprendiendo</strong> 
