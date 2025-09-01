@@ -26,8 +26,8 @@ Soy<strong> Mini desarrollador </strong> aun sigo aprendiendo</strong>
 </div>
 
 <div align="center">
-  <a href="https://github.com/The-King-Destroy/">
-    <img src="https://github-readme-stats.vercel.app/api?username=The-King-Destroy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+  <a href="https://github.com/Dev-fedexyz13">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dev-fedexyz13&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-King-Destroy&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"/>
   </a>
 </div>
@@ -41,8 +41,8 @@ Soy<strong> Mini desarrollador </strong> aun sigo aprendiendo</strong>
 </div>
 
 <div align="center">
-  <a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=The-King-Destroy&repo=Yuki_Suou-Bot&theme=purple" alt="Yuki Suou Bot"/>
+  <a href="https://github.com/Dev-fedexyz13/Obito-Bot_MD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-fedexyz13&repo=Obito-Bot_MD&theme=purple" alt=Obito Bot MD"/>
   </a>
 </div>
 
