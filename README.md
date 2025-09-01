@@ -18,11 +18,13 @@ Aquí comparto mis proyectos, ideas y avances con mucho cariño ❀
 - ❤️ Sé parte de esta familia digital que te recibe con los brazos abiertos.
 
 ---
+## 📚 Contacta conmigo
 
 <div align="center">
-  <a href="https://wa.me/5491156178758">
+  <a href="https://wa.me/5491156178758?text=Hola,%20vengo%20de%20tu%20repositorio">
     <img src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png" height="40" alt="WhatsApp Contact"/>
     <br><strong>¡Haz clic aquí para hablar conmigo por WhatsApp!</strong>
+    <br><em>Se enviará automáticamente el mensaje: "Hola, vengo de tu repositorio"</em>
   </a>
 </div>
 
