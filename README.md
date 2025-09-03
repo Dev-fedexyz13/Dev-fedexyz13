@@ -4,8 +4,7 @@
 <h2 align="center">🌑 ¡Hola! 👋 Bienvenido/a a mi repositorio</h2>
 
 <p align="center">
-Soy un <strong>mini desarrollador</strong> en constante aprendizaje.
-Aquí comparto mis proyectos, ideas y avances con mucho cariño ❀
+Soy un <strong>mini desarrollador</strong> Aun sigo aprendiendo sobre los bots ⏳
 </p>
 
 ---
