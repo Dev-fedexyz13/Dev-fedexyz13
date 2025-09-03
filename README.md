@@ -9,14 +9,6 @@ Soy un <strong>mini desarrollador</strong> Aun sigo aprendiendo sobre los bots �
 
 ---
 
-### 🌟 ¿Por qué quedarte por aquí?
-
-- 💬 Aprende sobre bots y automatización en WhatsApp.
-- 🚀 Explora proyectos que evolucionan con cada línea de código.
-- 🤝 Únete a una comunidad que crece con cada colaboración.
-- ❤️ Sé parte de esta familia digital que te recibe con los brazos abiertos.
-
----
 ## 📚 Contacta conmigo
 
 <div align="center">
