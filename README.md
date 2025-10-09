@@ -8,6 +8,16 @@
 
 [![Email](https://img.shields.io/badge/Gmail-Enviar%20Mensaje-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fedelanyt20@gmail.com)
 
+📊 **status del repositorio**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-fedexyz13&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39FF14&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev-fedexyz13&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00FF41&text_color=39FF14&border_radius=15"/>
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-fedexyz13&theme=terminal&bg_color=0D1117&color=00FF41&line=00FF41&point=39FF14&area=true&hide_border=true"/>
+
+</div>
 
 
 🚀 **Proyecto Principal**
