@@ -4,19 +4,19 @@
 
 
 
-## 📬 Contacto
+📩 **Contacto**
 
 [![Email](https://img.shields.io/badge/Gmail-Enviar%20Mensaje-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fedelanyt20@gmail.com)
 
 
 
-## 🚀 Proyecto Principal
+🚀 **Proyecto Principal**
 
 <a href="https://github.com/Dev-fedexyz13/Dev-fedexyz13">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dev-fedexyz13&repo=Dev-fedexyz13&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&icon_color=00FF41&border_radius=15" width="400"/>
 </a>
 
-### 📈 Contribuciones Anuales
+📈 **Contribuciones Anuales***
 <img src="https://ghchart.rshah.org/00FF41/Dev-fedexyz13" alt="Contribuciones GitHub" width="600"/>
 
 
