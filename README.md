@@ -20,5 +20,5 @@
 <img src="https://ghchart.rshah.org/00FF41/Dev-fedexyz13" alt="Contribuciones GitHub" width="600"/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=DEV-FEDEXYZ&fontSize=22&fontColor=00FF41&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=22&fontColor=00FF41&animation=twinkling"/>
 </div>
