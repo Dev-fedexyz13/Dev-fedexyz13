@@ -11,7 +11,7 @@
 
 📊  **Estado del repositorio**
 
-> Actividad, rendimiento y lenguaje dominante del entorno Dev-fedexyz13.
+> **Actividad, rendimiento y lenguaje dominante del entorno Dev-fedexyz13.**
 
 <div align="center">
 
