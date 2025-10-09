@@ -37,7 +37,7 @@
 
 
 📈 **Contribuciones Anuales***
-<img src="https://ghchart.rshah.org/00FF41/Dev-fedexyz13" alt="Contribuciones GitHub" width="500"/>
+<img src="https://ghchart.rshah.org/00FF41/Dev-fedexyz13" alt="Contribuciones GitHub" width="600"/>
 
 
 
