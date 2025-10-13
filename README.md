@@ -2,8 +2,20 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=BIENVENIDO%20A%20MI%20PERFIL&fontSize=26&fontColor=00FF41&animation=fadeIn&desc=Explorador%20Digital%20×%20Dev%20Creativo&descSize=13&descAlignY=60)
 
+```
+root@ryzumi: ~/ShirokamiRyzen (main)$ neofetch
+```
 
-
+```
+*About Me*
+👤 *Alias:* Dev-BlackDark (hosted by Dev-fedexyz13)
+🌍 *From:* Jawa Barat, Indonesia
+🗣️ *Languages I Speak:* Español & English
+🎭 *Identity:* Just a regular person exploring digital spaces
+💬 *Pronouns:* Ja / Wir
+💖 *Waifu:* Still waiting... maybe it's Dev-fedexyz13
+📚 *What I Enjoy:* Anime nights, good books, and music that hits deep
+```
 📩 **Contacto**
 
 [![Email](https://img.shields.io/badge/Gmail-Enviar%20Mensaje-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fedelanyt20@gmail.com)
