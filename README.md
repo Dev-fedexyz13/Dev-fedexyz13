@@ -40,8 +40,8 @@ Languages: Español & English
 
 🚀 **Proyecto Principal**
 
-<a href="https://github.com/Dev-fedexyz13/Nagi-Bot">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dev-fedexyz13&repo=Nagi-Bot&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&icon_color=00FF41&border_radius=15" width="400"/>
+<a href="https://github.com/Dev-fedexyz13/Dev-fedexyz13">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dev-fedexyz13&repo=Dev-fedexyz13&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39FF14&icon_color=00FF41&border_radius=15" width="400"/>
 </a>
 
 
